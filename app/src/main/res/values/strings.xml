@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exercise5</string>
+    <string name="countlike">#</string>
+    <string name="countdislike">#</string>
+</resources>
